@@ -1,0 +1,283 @@
+[
+    {
+        "id": "IMG-01",
+        "titulo": "Abobura",
+        "imagen": "./img/abobura.png",
+       
+        "precio": 105
+    },
+    {
+        "id": "IMG-02",
+        "titulo": "Abacate",
+        "imagen": "./img/abacate.png",
+       
+        "precio": 188
+    },
+    {
+        "id": "IMG-03",
+        "titulo": "Alface",
+        "imagen": "./img/alface.png",
+       
+        "precio": 199
+    },
+    {
+        "id": "IMG-04",
+        "titulo": "Alho",
+        "imagen": "./img/alho.png",
+       
+        "precio": 79
+    },
+    {
+        "id": "IMG-05",
+        "titulo": "Amoura",
+        "imagen": "./img/Amoura.png",
+       
+        "precio": 255
+    },
+    {
+        "id": "IMG-06",
+        "titulo": "Ananas",
+        "imagen": "./img/Ananas.png",
+        
+        "precio": 200
+    },
+    {
+        "id": "IMG-07",
+        "titulo": "Aveia",
+        "imagen": "./img/Aveia.png",
+       
+        "precio": 323
+    },
+    {
+        "id": "IMG-08",
+        "titulo": "Banana",
+        "imagen": "./img/Banana.png",
+        
+        "precio": 99
+    },
+    {
+        "id": "IMG-09",
+        "titulo": "Azeitona",
+        "imagen": "./img/Azeitona2.png",
+        
+        "precio": 152
+    },
+    {
+        "id": "IMG-10",
+        "titulo": "Batata Doce",
+        "imagen": "./img/Batata Doce.png",
+        
+        "precio": 136
+    },
+    {
+        "id": "IMG-11",
+        "titulo": "Batata Rena",
+        "imagen": "./img/Batata Rena.png",
+       
+        "precio": 432
+    },
+    {
+        "id": "IMG-12",
+        "titulo": "Cebola",
+        "imagen": "./img/Cebola.png",
+       
+        "precio": 169
+    },
+    {
+        "id": "IMG-13",
+        "titulo": "Cenoura",
+        "imagen": "./img/Cenoura.png",
+        
+        "precio": 139
+    },
+    {
+        "id": "IMG-14",
+        "titulo": "Cogumelo",
+        "imagen": "./img/Cogumelo.png",
+        
+        "precio": 347
+    },
+    {
+        "id": "IMG-15",
+        "titulo": "Feijão Castaho",
+        "imagen": "./img/Feijao.png",
+       
+        "precio": 650
+    },
+    {
+        "id": "IMG-16",
+        "titulo": "Repolho",
+        "imagen": "./img/Repolho.png",
+        
+        "precio": 122
+    },
+    {
+        "id": "IMG-17",
+        "titulo": "Goiaba",
+        "imagen": "./img/Goiaba.png",
+      
+        "precio": 100
+    },
+    {
+        "id": "IMG-18",
+        "titulo": "Manga",
+        "imagen": "./img/Manga.png",
+        
+        "precio": 210
+    },
+    {
+        "id": "IMG-19",
+        "titulo": "Maracúja",
+        "imagen": "./img/Maracuja.png",
+        
+        "precio": 420
+    },
+    {
+        "id": "IMG-20",
+        "titulo": "Laranja",
+        "imagen": "./img/Laranja.png",
+        
+        "precio": 135
+    },
+    {
+        "id": "IMG-21",
+        "titulo": "Cereja",
+        "imagen": "./img/Cereja.png",
+        
+        "precio": 110
+    },
+    {
+        "id": "IMG-22",
+        "titulo": "Limão",
+        "imagen": "./img/Limao.png",
+        
+        "precio": 96
+    },
+    {
+        "id": "IMG-23",
+        "titulo": "Mandioca",
+        "imagen": "./img/Mandioca.png",
+        
+        "precio": 523
+    },
+    {
+        "id": "IMG-24",
+        "titulo": "Melância",
+        "imagen": "./img/Melancia.png",
+        
+        "precio": 208
+    },
+    {
+        "id": "IMG-25",
+        "titulo": "Pera",
+        "imagen": "./img/Pera.png",
+        
+        "precio": 109
+    },
+    {
+        "id": "IMG-26",
+        "titulo": "Melão",
+        "imagen": "./img/Melao.png",
+       
+        "precio": 225
+    },
+    {
+        "id": "IMG-27",
+        "titulo": "Morango",
+        "imagen": "./img/Morango.png",
+       
+        "precio": 371
+    },
+    {
+        "id": "IMG-28",
+        "titulo": "Milho",
+        "imagen": "./img/Milho.png",
+        
+        "precio": 289
+    },
+    {
+        "id": "IMG-29",
+        "titulo": "Pipino",
+        "imagen": "./img/Pipino.png",
+       
+        "precio": 354
+    },
+    {
+        "id": "IMG-30",
+        "titulo": "Gingibre",
+        "imagen": "./img/Gingibre.png",
+        
+        "precio": 80
+    },
+    {
+        "id": "IMG-31",
+        "titulo": "Pimenta",
+        "imagen": "./img/Pimenta.png",
+       
+        "precio": 178
+    },
+    {
+        "id": "IMG-32",
+        "titulo": "Tomate",
+        "imagen": "./img/Tomate.png",
+       
+        "precio": 250
+    },
+    {
+        "id": "IMG-33",
+        "titulo": "Trigo",
+        "imagen": "./img/Trigo.png",
+       
+        "precio": 750
+    },
+    {
+        "id": "IMG-34",
+        "titulo": "Maça",
+        "imagen": "./img/Maca.png",
+       
+        "precio": 120
+    },
+    {
+        "id": "IMG-35",
+        "titulo": "Quiabo",
+        "imagen": "./img/Quiabo.png",
+       
+        "precio": 69
+    },
+    {
+        "id": "IMG-36",
+        "titulo": "Uva",
+        "imagen": "./img/Uva1.png",
+       
+        "precio": 373
+    },
+    {
+        "id": "IMG-37",
+        "titulo": "Pêssego",
+        "imagen": "./img/Pessego.png",
+       
+        "precio": 485
+    },
+    {
+        "id": "IMG-38",
+        "titulo": "Kiwi",
+        "imagen": "./img/Kiwi.png",
+       
+        "precio": 238
+    },
+    {
+        "id": "IMG-39",
+        "titulo": "Pitaya",
+        "imagen": "./img/Pitaya.png",
+       
+        "precio": 428
+    },
+    {
+        "id": "IMG-40",
+        "titulo": "Tamarindo",
+        "imagen": "./img/Tamarindo.png",
+       
+        "precio": 147
+    }
+
+]
